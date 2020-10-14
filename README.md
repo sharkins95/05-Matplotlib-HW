@@ -1,2 +1,2 @@
-# 05-Mayplotlib-HW
+# 05-Matplotlib-HW
 Matplotlib homework.
